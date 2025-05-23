@@ -69,7 +69,7 @@ df.style
 ```
 
 
-See a [sample output](##sample-output) at the bottom of this page
+See a [sample output](https://github.com/leonardocerliani/Jorge4PubMed/tree/main?tab=readme-ov-file#sample-output) at the bottom of this page
 
 You can subsequently add more articles in the `md_out` directory. Only the newly added articles will be processed.
 
