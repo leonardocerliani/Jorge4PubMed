@@ -1,7 +1,10 @@
 # Jorge4PubMed
-_llm-based retrieval of PubMed ID (PMID) from the text of biomedical articles_
+_A Python script to carry out llm-based retrieval of PubMed ID (PMID) from the text of biomedical articles_.\
+_Name inspired by the blind librarian with encyclopedic knowledge from The Name Of The Rose_.
 
 ![](imgs/jorge.png)
+
+
 
 ## Motivation
 We use a RAG to ask questions about a scientific topic based on a corpus of ingested pdf, and we are given a response. When we read the response, we want to have the same experience that we have when we read a paper, that is, for each statement, we want to have its reference.
@@ -28,7 +31,7 @@ While this is extremely easy for humans (just open the paper and google its titl
 
 <br>
 
-Jorge - a deliberate reference to the blind librarian with encyclopedic knowledge from _The Name Of The Rose_ - can help you with that.
+Jorge can help you with that.
 
 
 ## How Jorge operates
@@ -83,7 +86,7 @@ When tested on a corpus of 1729 papers, Jorge correctly retrieved 83% of the PMI
 
 ## Applications
 Once you have the PMID of each of your source papers, a few options open up, for instance:
-- First, you can provide the citation in your RAG-generated response (as shown above)
+- First, you can provide the citation in your RAG-generated response (as shown above). I personally use it in combination with [LightRAG](https://github.com/HKUDS/LightRAG)
 - You can use the PMID to retrieve from the PubMed api all the papers citing that source
 - You can specifically retrieve the paper abstract, which can be used e.g. to further validate the RAG response or provided to the user in the RAG app.
 
