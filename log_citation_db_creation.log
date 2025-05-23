@@ -1,0 +1,76 @@
+2025-05-23 07:29:44,545 - Use pytorch device_name: mps
+2025-05-23 07:29:44,545 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 07:29:48,205 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:48,250 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:48,276 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:48,716 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:48,718 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:48,734 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:49,124 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:29:49,125 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:02,154 - Use pytorch device_name: mps
+2025-05-23 07:38:02,154 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 07:38:04,307 - Duplicate filename detected: '3953Bertram1995.md' already exists in the database.
+2025-05-23 07:38:04,307 - Duplicate filename detected: 'Prinz2019The_functional_universe_of_membrane.md' already exists in the database.
+2025-05-23 07:38:04,307 - Duplicate filename detected: '8.md' already exists in the database.
+2025-05-23 07:38:04,307 - Duplicate filename detected: '3944Hofmann1999.md' already exists in the database.
+2025-05-23 07:38:04,307 - Duplicate filename detected: '47Carraway2012.md' already exists in the database.
+2025-05-23 07:38:05,049 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:05,205 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:05,347 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:05,383 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:05,411 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:05,867 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:06,073 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:06,074 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:38:07,655 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:02,170 - Use pytorch device_name: mps
+2025-05-23 07:40:02,170 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 07:40:05,268 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,311 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,352 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,415 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,482 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,676 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:05,677 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:06,289 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:06,477 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:08,545 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:09,162 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:09,183 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:09,338 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:40:09,583 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:15,153 - Use pytorch device_name: mps
+2025-05-23 07:52:15,153 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 07:52:38,479 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,499 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,576 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,652 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,719 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,864 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:38,942 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:39,141 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:39,205 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:44,026 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:44,568 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:44,593 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:44,659 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 07:52:49,988 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:22,807 - Use pytorch device_name: mps
+2025-05-23 08:08:22,807 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 08:08:29,422 - Use pytorch device_name: mps
+2025-05-23 08:08:29,423 - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-05-23 08:08:39,853 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:39,938 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:40,051 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:40,170 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:40,180 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:40,575 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:40,883 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:41,089 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:41,500 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:41,577 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:42,231 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:42,730 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:43,033 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
+2025-05-23 08:08:43,034 - HTTP Request: POST https://api.openai.com/v1/responses "HTTP/1.1 200 OK"
